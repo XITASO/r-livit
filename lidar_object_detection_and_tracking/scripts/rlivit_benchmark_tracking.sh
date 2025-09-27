@@ -1,0 +1,11 @@
+bash scripts/trk_r_livit_inference_ab3dmot_car.sh
+bash scripts/trk_r_livit_inference_ab3dmot_cyclist.sh
+bash scripts/trk_r_livit_inference_ab3dmot_pedestrian.sh
+
+bash scripts/trk_r_livit_inference_mahalanobis_car.sh
+bash scripts/trk_r_livit_inference_mahalanobis_cyclist.sh
+bash scripts/trk_r_livit_inference_mahalanobis_pedestrian.sh
+
+bash scripts/trk_r_livit_inference_simpletrack_car.sh
+bash scripts/trk_r_livit_inference_simpletrack_cyclist.sh
+bash scripts/trk_r_livit_inference_simpletrack_pedestrian.sh

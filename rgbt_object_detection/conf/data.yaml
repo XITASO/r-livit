@@ -1,0 +1,20 @@
+data:
+  dataset_paths:
+    camel: data/data_src/camel
+    fliraligned: data/data_src/flir_aligned
+    kaist: data/data_src/kaist
+    llvip: data/data_src/LLVIP
+    m3fd: data/data_src/M3FD_Detection
+    rlivit: data/data_src/RLiViT
+    smod: data/data_src/SMOD
+
+  dataset_label_mapping:
+    flir_aligned:
+      bus: car
+      truck: car
+
+  results_path: data/data_src
+  log_path: data/data_src
+
+  labels_path: data/labels.txt
+  labels_coco90_path: data/labels_coco90.txt

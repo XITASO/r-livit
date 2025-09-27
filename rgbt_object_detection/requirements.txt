@@ -1,0 +1,9 @@
+albumentations==1.0.3
+hydra-core
+opencv-python==4.8.0.74
+pycocotools==2.0.6
+torch
+torchmetrics[detection]==1.3.1
+torchvision==0.17.0
+tqdm
+ultralytics==8.2.2
