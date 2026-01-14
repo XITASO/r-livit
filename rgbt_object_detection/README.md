@@ -76,3 +76,6 @@ To benchmark the models, update the script with the model(s), weights, and datas
 python benchmarking.py
 ```
 - Refer to the benchmarking script for more detailed instructions.
+
+### Use the model weights of our evaluation
+We refer to [the zenodo repository](https://doi.org/10.5281/zenodo.18242742) in which the weights of the RGB and IR models are available.
